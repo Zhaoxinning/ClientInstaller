@@ -1,0 +1,16 @@
+debug/qrc_file.o
+debug/main.o
+debug/language.o
+debug/introduction.o
+debug/targetdirectory.o
+debug/licensecheck.o
+debug/performinstallation.o
+debug/installationcomplete.o
+debug/installthread.o
+debug/moc_language.o
+debug/moc_introduction.o
+debug/moc_targetdirectory.o
+debug/moc_licensecheck.o
+debug/moc_performinstallation.o
+debug/moc_installationcomplete.o
+debug/moc_installthread.o

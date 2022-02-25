@@ -1,0 +1,16 @@
+release/qrc_file.o
+release/main.o
+release/language.o
+release/introduction.o
+release/targetdirectory.o
+release/licensecheck.o
+release/performinstallation.o
+release/installationcomplete.o
+release/installthread.o
+release/moc_language.o
+release/moc_introduction.o
+release/moc_targetdirectory.o
+release/moc_licensecheck.o
+release/moc_performinstallation.o
+release/moc_installationcomplete.o
+release/moc_installthread.o
